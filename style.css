@@ -1,0 +1,24 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-weight: 800;
+}
+.navbar-nav {
+    margin-left: 50%;
+}
+.test img{
+    width: 200px;
+}
+.footer{
+    background-color: #282531;
+    height: 350px;
+    color: white
+}
+@media (min-width: 992px){
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+}
+
